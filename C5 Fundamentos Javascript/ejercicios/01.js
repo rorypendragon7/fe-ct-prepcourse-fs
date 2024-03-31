@@ -4,3 +4,5 @@
 const nuevoString = null;
 
 module.exports = nuevoString;
+
+nuevoString = hola;
