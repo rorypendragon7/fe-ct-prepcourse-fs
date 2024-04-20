@@ -1,3 +1,8 @@
 {
-    "codeium.aggressiveShutdown": true
+    "codeium.aggressiveShutdown": true,
+    "editor.linkedEditing": true,
+    "vscode_vibrancy.opacity": 0,
+    "vscode_vibrancy.type": "auto",
+    "vscode_vibrancy.refreshInterval": 0,
+    "vscode_vibrancy.theme": "Default Dark"
 }
